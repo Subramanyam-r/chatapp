@@ -1,0 +1,48 @@
+.messages-main{
+    color: black;
+    padding: 20px;
+    max-height: 22.1rem;
+    overflow-y: auto;
+}
+
+.message, .message-client, .admin-message {
+    padding: 5px 15px;
+    border-radius: 15px;
+    overflow-wrap: break-word;
+    display: inline-block;
+    width: auto;
+}
+
+.message {
+    background-color: rgb(201, 201, 201);
+    margin-right: 40%;
+}
+
+.message-client {
+    background-color: #0275d8;
+    color: white;
+    margin-left: 40%;
+}
+
+.blue-outer-div {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.admin-message {
+    background-color: rgb(255, 255, 122);
+    color: rgb(71, 71, 0);
+}
+
+.admin-outer-div {
+    display: flex;
+    justify-content: center;
+}
+
+.username {
+    margin: 0;
+    display: block;
+    color: #0026ff;
+}
+
+

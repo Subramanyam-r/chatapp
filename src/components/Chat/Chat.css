@@ -1,0 +1,15 @@
+.chat-main-div {
+    padding: 10% 10%;
+}
+
+.chat-box {
+    background-color: white;
+    padding: 0;
+    height: 25rem;
+    border: 1px transparent;
+    border-radius: .25rem;
+}
+
+html {
+    scroll-behavior: smooth;
+  }

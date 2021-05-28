@@ -1,0 +1,19 @@
+.join-main-div {
+    padding: 16rem 15%;
+    text-align: center;
+}
+
+.join-button {
+    width: 100%;
+}
+
+@media (min-width: 768px) {
+    .join-main-div {
+        padding: 16rem 25%;
+    }
+}
+
+.line {
+    border-width: 2px;
+    border-color: white;
+}

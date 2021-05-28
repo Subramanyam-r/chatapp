@@ -1,0 +1,22 @@
+.window-main {
+    background-color: #0275d8;
+    padding: 0 20px;
+    border: 1px solid #0275d8;
+    border-radius: .25rem .25rem 0 0;
+}
+
+.window-right-div {
+    text-align: right;
+}
+
+.window-bar-text {
+    margin: 8px 0 10px;
+}
+
+.fa-times-circle {
+    color: white;
+}
+
+.fa-times-circle:hover {
+    color: black;
+}
